@@ -14,6 +14,7 @@ namespace VotingData
     using Microsoft.ServiceFabric.Services.Communication.Runtime;
     using Microsoft.ServiceFabric.Services.Runtime;
     using Microsoft.AspNetCore.Hosting;
+    using Microsoft.AspNetCore.Builder;
 
     /// <summary>
     /// The FabricRuntime creates an instance of this class for each service type instance. 
